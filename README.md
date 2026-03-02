@@ -1,6 +1,6 @@
 # Mastering NLP from Foundations to Agents, Second Edition
 
-<a href="https://www.amazon.com/Mastering-NLP-Foundations-Agents-Automation/dp/1806106132"><img src="https://m.media-amazon.com/images/I/71LNtWp90rL._SY466_.jpg" alt="Mastering NLP from Foundations to Agents, Second Edition" height="256px" align="right"></a>
+<a href="https://www.amazon.com/Mastering-NLP-Foundations-Agents-Automation/dp/1806106132"><img src="https://m.media-amazon.com/images/I/71q8Pcf7yEL._SY466_.jpg" alt="Mastering NLP from Foundations to Agents, Second Edition" height="256px" align="right"></a>
 
 This is the code repository for **Mastering NLP from Foundations to Agents, Second Edition**, published by Packt.
 
